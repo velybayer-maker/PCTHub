@@ -101,3 +101,5 @@ Sample student fee total is PHP 25,000, and sample academic tasks are added if n
 ## Limitations and safety
 
 This is a functional development MVP, not production-ready financial software. Payment records are entered by authorized staff; there is no payment gateway integration. Formal receipt PDFs, file uploads, comprehensive account administration, password resets, exportable reports, migrations, and automated integration tests still need development. Before using real student information, review access controls, secret handling, secure cookies/HTTPS, backups, audit requirements, retention policy, and compliance with applicable Philippine data-privacy requirements. Do not expose the development API directly to the internet.
+=======
+# PCTHub
